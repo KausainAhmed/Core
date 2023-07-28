@@ -1,7 +1,7 @@
 package GarbageCollection;
 
 public class GC {
-	int id;
+	int id; //instance variable
 
 	public GC(int id) {
 		super();
