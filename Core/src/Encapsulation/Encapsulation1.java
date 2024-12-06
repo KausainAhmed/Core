@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation; 
 
 public class Encapsulation1 {
    private int id; 
